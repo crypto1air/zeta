@@ -1,0 +1,2 @@
+# zeta
+Node testnet validator
